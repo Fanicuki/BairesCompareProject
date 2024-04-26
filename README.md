@@ -15,6 +15,37 @@ Ideas para el proyecto de **diseño de aplicaciones móviles** en 2024. Linares-
 
 ### **Objetivo**: Lo que se quiere lograr en esta aplicación es regular los precios excesivos que generan los mercados independientes por culpa de la mala economía en Argentina, con una implementación de reseñas colectivas y método de comparaciones para que el usuario que quiera realizar una compra, pueda seleccioanr entre las opciones cercanas a su zona, la mejor opción en relación a: Calidad, Precio y Servicios.
 
+
+## Opciones de la aplicación móvil
+
+
+1. Inicio 
+* Mapa
+* Comercios
+* Favoritos
+* Opciones
+* Barra de búsqueda
+* Filtraciones
+* Punto de ubicación
+2. Locales
+* Información/Descripción
+* Reseñas
+* Valoración
+* Precios
+* Productos
+* Filtros
+* Imágenes
+* Ubicación
+* (Opcional) Indicaciones
+3. Opciones
+* Cuenta
+* (Opcional) Idioma
+* Ubicación
+* Determinar rango de ubicación
+* Ayuda y Comentarios
+* Politicas de privacidad
+* Términos de uso
+
 **RECURSOS**
 
 1. [ANALISIS DE PRECIOS -QUESTION PRO-](https://www.questionpro.com/blog/es/analisis-de-precios/)
