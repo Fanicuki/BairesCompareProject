@@ -46,6 +46,11 @@ Ideas para el proyecto de **diseño de aplicaciones móviles** en 2024. Linares-
 * Politicas de privacidad
 * Términos de uso
 
+
+## APIS
+* Mapa
+* Reseñas
+
 **RECURSOS**
 
 1. [ANALISIS DE PRECIOS -QUESTION PRO-](https://www.questionpro.com/blog/es/analisis-de-precios/)
