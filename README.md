@@ -18,8 +18,16 @@ Ideas para el proyecto de **diseño de aplicaciones móviles** en 2024. Linares-
 
 ## Opciones de la aplicación móvil
 
+1. Sesión
+* Bienvenida
+* Campo de Usuario/Mail
+* Campo de Contraseña
+* Botón Inicio Sesión
+* Mensaje "Olvidé mi contraseña"
+* Crear cuenta
+2. Registro
 
-1. Inicio 
+3. Inicio 
 * Mapa
 * Comercios
 * Favoritos
@@ -27,7 +35,7 @@ Ideas para el proyecto de **diseño de aplicaciones móviles** en 2024. Linares-
 * Barra de búsqueda
 * Filtraciones
 * Punto de ubicación
-2. Locales
+4. Locales
 * Información/Descripción
 * Reseñas
 * Valoración
@@ -37,7 +45,7 @@ Ideas para el proyecto de **diseño de aplicaciones móviles** en 2024. Linares-
 * Imágenes
 * Ubicación
 * (Opcional) Indicaciones
-3. Opciones
+5. Opciones
 * Cuenta
 * (Opcional) Idioma
 * Ubicación
